@@ -1,6 +1,7 @@
 streamlit
 loguru
 openai
+g4f
 pexels-api
 python-dotenv
 moviepy
@@ -10,3 +11,5 @@ requests
 Pillow
 pandas
 httpx
+pydantic
+toml
