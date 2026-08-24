@@ -13,3 +13,6 @@ pandas
 httpx
 pydantic
 toml
+tenacity
+shortuuid
+filetype
