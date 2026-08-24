@@ -21,3 +21,7 @@ scikit-learn>=1.3.0
 transformers>=4.21.0
 torch>=1.12.0
 pillow>=9.0.0
+loguru
+openai
+pexels-api
+python-dotenv
